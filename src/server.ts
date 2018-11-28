@@ -1,5 +1,5 @@
 import app from './app';
-const debug = require('debug')('app');
+const debug = require('debug')('server');
 
 const PORT = 3000;
 
